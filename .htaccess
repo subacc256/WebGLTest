@@ -1,4 +1,4 @@
-#This configuration file should be uploaded to the server as "<Application Folder>/Build/.htaccess"
+# This configuration file should be uploaded to the server as "<Application Folder>/Build/.htaccess"
 # NOTE: "mod_mime" Apache module must be enabled for this configuration to work.
 <IfModule mod_mime.c>
  
